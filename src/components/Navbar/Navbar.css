@@ -1,0 +1,9 @@
+.active{
+    background-color: green;
+}
+
+.nav{
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+}
